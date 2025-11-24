@@ -1,5 +1,5 @@
 const firebaseConfig = {
-  databaseURL: "https://YOUR_DB_URL/"
+  databaseURL: "https://coldchain-default-rtdb.asia-southeast1.firebasedatabase.app/"
 };
 firebase.initializeApp(firebaseConfig);
 
