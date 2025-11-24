@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #e8fff0;
+  padding: 20px;
+}
+#temperature {
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 20px;
+}
